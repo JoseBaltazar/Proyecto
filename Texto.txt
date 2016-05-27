@@ -6,4 +6,5 @@ Texto
 
 Rama ejemplo
 
-Linea agregada a master
+Nueva linea agregada combinando caracteristicaNueva y master
+
